@@ -1,12 +1,5 @@
-from distutils.log import debug
-
-from random import triangular
-
-from tkinter.messagebox import RETRY
-
 from fastapi import FastAPI
 
-from numpy import True_
 
 from pydantic import BaseModel
 
